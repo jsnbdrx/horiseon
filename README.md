@@ -10,5 +10,9 @@ A marketing website that provides information on how to improve the brand.
 ## Website
 https://jsnbdrx.github.io/horiseon/index.html
 
-## Contribution
-Made with ❤️ by [jsnbdrx]
+## Contributions
+* added title to webpage
+* regrouped/organized elements of the HTML and CSS
+* added notes to HTML and CSS files
+* added alt attributes to images
+
