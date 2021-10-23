@@ -8,7 +8,7 @@ A marketing website that provides information on how to improve the brand.
 * CSS
 
 ## Website
-https://jsnbdrx.github.io/
+https://jsnbdrx.github.io/horiseon/index.html
 
 ## Contribution
 Made with ❤️ by [jsnbdrx]
