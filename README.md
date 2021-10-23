@@ -16,3 +16,4 @@ https://jsnbdrx.github.io/horiseon/index.html
 * added notes to HTML and CSS files
 * added alt attributes to images
 
+horiseon-webpage-screenshot](https://user-images.githubusercontent.com/91853630/138542860-c8c68aed-201b-49a3-907f-2f582902fd82.png
